@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(214, 197, 177);
+    margin: 10px;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(156, 105, 10);
+    margin: 10px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+
+}
+
+hr {
+    border-color: rgba(184, 165, 143, 0.151);
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  rgba(250, 223, 174, 0.24);
+    border-radius: 10px;
+    margin-right: 88em;
+    padding: 10px;
+    box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.164);
+    font-weight: normal;
+
+}
+
+a {
+    margin: 10px;    
+}
+
+audio {
+    box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.274);
+    border-radius: 40px;
+}
+
+img {
+    box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.363);
+}
+
