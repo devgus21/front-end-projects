@@ -1,6 +1,6 @@
 # front-end-projects
  Projetos Front-end
 
- Aprendendo a criar sites e gerenciar meus respositórios.
+ Aprendendo Desenvolvimento Web
 
- <a href="https://devgus21.github.io/front-end-projects/curriculum-project/curriculogstv.html">Executar o projeto Currículo</a>
+ <a href="https://github.com/gustavomrqz/front-end-projects">Projetos Front-End</a>
